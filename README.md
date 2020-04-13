@@ -1,6 +1,8 @@
 # Gatsby Blog
 This is a simple blog built with the [gatsby-starter-hello-world template](https://github.com/gatsbyjs/gatsby-starter-hello-world). Built following [Marcelo Pastorio's](https://softwaredeveloper.io/) [GatsbyJS: Getting Started tutorial on Pluralsight](https://app.pluralsight.com/library/courses/gatsbyjs-getting-started/table-of-contents).
 
+Deployed [here using Surge](levinscodes-gatsby-blog.surge.sh).
+
 ## Skills Outline
 This site uses the following
 * SASS CSS-Modules to reduce the amount of code, and scope styles locally to avoid class name conflicts.
